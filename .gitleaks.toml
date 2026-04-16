@@ -1,0 +1,5 @@
+[allowlist]
+description = "Ignore - false positive"
+regexes = [
+'''IEYRtW2cb7A5Gs54A1wKElECBL65GVls'''
+]
